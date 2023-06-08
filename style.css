@@ -138,6 +138,13 @@ a {
         align-items: center;
         align-content: center;
     }
+    .img1 {
+    display:none;
+}
+
+    .img2 {
+    display:none;
+}
 }
 
 .img1 {
