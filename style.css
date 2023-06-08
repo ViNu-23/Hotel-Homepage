@@ -79,6 +79,12 @@ a {
 
 }
 
+@media(max-width:770px) {
+    .menu-para {
+        line-height: 2vh;
+}
+}
+
 @media(max-width:805px) {
     .hanmberger {
         display: block;
